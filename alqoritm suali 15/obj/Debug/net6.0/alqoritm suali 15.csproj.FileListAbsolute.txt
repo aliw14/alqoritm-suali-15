@@ -1,0 +1,15 @@
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/bin/Debug/net6.0/alqoritm suali 15
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/bin/Debug/net6.0/alqoritm suali 15.deps.json
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/bin/Debug/net6.0/alqoritm suali 15.runtimeconfig.json
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/bin/Debug/net6.0/alqoritm suali 15.dll
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/bin/Debug/net6.0/alqoritm suali 15.pdb
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/alqoritm suali 15.csproj.AssemblyReference.cache
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/alqoritm suali 15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/alqoritm suali 15.AssemblyInfoInputs.cache
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/alqoritm suali 15.AssemblyInfo.cs
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/alqoritm suali 15.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/alqoritm suali 15.dll
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/refint/alqoritm suali 15.dll
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/alqoritm suali 15.pdb
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/alqoritm suali 15.genruntimeconfig.cache
+/Users/ali/Projects/alqoritm suali 15/alqoritm suali 15/obj/Debug/net6.0/ref/alqoritm suali 15.dll
